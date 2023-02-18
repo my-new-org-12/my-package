@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kalout/my-package/issues"
   },
-  "homepage": "https://github.com/kalout/my-package#readme"
+  "homepage": "https://github.com/kalout/my-package#readme",
+  "publishConfig": {
+    "@kalout:registry": "https://npm.pkg.github.com"
+  }
 }

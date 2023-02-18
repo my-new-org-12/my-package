@@ -1,5 +1,5 @@
 {
-  "name": "@kalout/my-package",
+  "name": "@my-new-org-12/my-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kalout/my-package#readme",
   "publishConfig": {
-    "@kalout:registry": "https://npm.pkg.github.com"
+    "@my-new-org-12:registry": "https://npm.pkg.github.com"
   }
 }

@@ -6,16 +6,13 @@
   "scripts": {
     "test": "exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kalout/my-package.git"
-  },
+  "repository": "https://github.com/my-new-org-12/my-package",
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalout/my-package/issues"
+    "url": "https://github.com/my-new-org-12/my-package/issues"
   },
-  "homepage": "https://github.com/kalout/my-package#readme",
+  "homepage": "https://github.com/my-new-org-12/my-package#readme",
   "publishConfig": {
     "@my-new-org-12:registry": "https://npm.pkg.github.com"
   }
